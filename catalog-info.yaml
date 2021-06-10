@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "java-kotlin-lib-test-EoaFm"
+  description: "This project was created from the template-java-kotlin-library template."
+  annotations:
+    github.com/project-slug: fp-mt-test-org/java-kotlin-lib-test-EoaFm
+    backstage.io/techdocs-ref: url:https://github.com/fp-mt-test-org/java-kotlin-lib-test-EoaFm
+    backstage.io/kubernetes-id: java-kotlin-lib-test-EoaFm
+spec:
+  type: library
+  lifecycle: experimental
+  owner: "Product Infrastructure"
